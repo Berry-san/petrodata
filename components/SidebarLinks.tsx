@@ -36,7 +36,7 @@ const SidebarLinks: React.FC<SidebarLinksProps> = ({
           ${
             isActive
               ? 'border-r-2 border-primary'
-              : 'hover:bg-gray-700 text-gray-300 hover:text-white'
+              : 'hover:bg-[#262626] rounded-l-full'
           }`}
       >
         {hasChildren ? (
