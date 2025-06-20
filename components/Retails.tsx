@@ -99,7 +99,7 @@ const Retails = () => {
       <div className="space-y-10 text-[#A3A3A3]">
         <div className="mt-8">
           <div className="max-w-md">
-            <label className="mb-2 text-sm font-medium text-gray-900 sr-only dark:text-white">
+            <label className="mb-2 text-sm font-medium text-gray-900 sr-only">
               Search
             </label>
             <div className="relative mb-4">
@@ -167,6 +167,12 @@ const Retails = () => {
             data={productPerformanceWithTrendData}
           />
         </div>
+      </div>
+      <div className="flex text-center items-center justify-center my-8">
+        <button className="border border-[#404040] rounded-full p-4 bg-transparent mt-4 text-white px-6 py-2">
+          {' '}
+          See more
+        </button>
       </div>
     </div>
   )
