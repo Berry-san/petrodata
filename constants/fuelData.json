@@ -1,0 +1,1352 @@
+[
+  {
+    "date": "2024-11-01",
+    "state": "Kwara",
+    "region": "North Central",
+    "AGO": 1272.48,
+    "PMS": 1271.83,
+    "DPK": 1226.16,
+    "LPG": 1302.24
+  },
+  {
+    "date": "2024-11-01",
+    "state": "Lagos",
+    "region": "South West",
+    "AGO": 1156.11,
+    "PMS": 1064.47,
+    "DPK": 1483.42,
+    "LPG": 1207.82
+  },
+  {
+    "date": "2024-11-01",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "AGO": 1189.04,
+    "PMS": 1126.6,
+    "DPK": 1493.57,
+    "LPG": 1297.02
+  },
+  {
+    "date": "2024-11-01",
+    "state": "Niger",
+    "region": "North Central",
+    "AGO": 1162.85,
+    "PMS": 1113.62,
+    "DPK": 1398.91,
+    "LPG": 1389.44
+  },
+  {
+    "date": "2024-11-01",
+    "state": "Ogun",
+    "region": "South West",
+    "AGO": 1166.22,
+    "PMS": 1054.1,
+    "DPK": 1344.4,
+    "LPG": 1322.44
+  },
+  {
+    "date": "2024-11-02",
+    "state": "Kwara",
+    "region": "North Central",
+    "AGO": 1284.18,
+    "PMS": 1280.94,
+    "DPK": 1224.23,
+    "LPG": 1300.14
+  },
+  {
+    "date": "2024-11-02",
+    "state": "Lagos",
+    "region": "South West",
+    "AGO": 1141.29,
+    "PMS": 1068.1,
+    "DPK": 1470.99,
+    "LPG": 1213.47
+  },
+  {
+    "date": "2024-11-02",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "AGO": 1185.14,
+    "PMS": 1139.49,
+    "DPK": 1494.65,
+    "LPG": 1307.53
+  },
+  {
+    "date": "2024-11-02",
+    "state": "Niger",
+    "region": "North Central",
+    "AGO": 1165.73,
+    "PMS": 1106.62,
+    "DPK": 1392.83,
+    "LPG": 1393.13
+  },
+  {
+    "date": "2024-11-02",
+    "state": "Ogun",
+    "region": "South West",
+    "AGO": 1150.88,
+    "PMS": 1056.65,
+    "DPK": 1350.03,
+    "LPG": 1321.65
+  },
+  {
+    "date": "2024-11-03",
+    "state": "Kwara",
+    "region": "North Central",
+    "AGO": 1265.22,
+    "PMS": 1276.04,
+    "DPK": 1233.76,
+    "LPG": 1300.74
+  },
+  {
+    "date": "2024-11-03",
+    "state": "Lagos",
+    "region": "South West",
+    "AGO": 1155.86,
+    "PMS": 1070.12,
+    "DPK": 1476.72,
+    "LPG": 1215.74
+  },
+  {
+    "date": "2024-11-03",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "AGO": 1181.63,
+    "PMS": 1127.65,
+    "DPK": 1503.17,
+    "LPG": 1296.95
+  },
+  {
+    "date": "2024-11-03",
+    "state": "Niger",
+    "region": "North Central",
+    "AGO": 1162.78,
+    "PMS": 1115.07,
+    "DPK": 1390.7,
+    "LPG": 1398.81
+  },
+  {
+    "date": "2024-11-03",
+    "state": "Ogun",
+    "region": "South West",
+    "AGO": 1158.58,
+    "PMS": 1068.44,
+    "DPK": 1344.5,
+    "LPG": 1317.48
+  },
+  {
+    "date": "2024-11-04",
+    "state": "Kwara",
+    "region": "North Central",
+    "AGO": 1269.08,
+    "PMS": 1273.75,
+    "DPK": 1223.21,
+    "LPG": 1297.78
+  },
+  {
+    "date": "2024-11-04",
+    "state": "Lagos",
+    "region": "South West",
+    "AGO": 1155.23,
+    "PMS": 1061.17,
+    "DPK": 1480.3,
+    "LPG": 1214.65
+  },
+  {
+    "date": "2024-11-04",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "AGO": 1185.63,
+    "PMS": 1139.12,
+    "DPK": 1490.02,
+    "LPG": 1301.23
+  },
+  {
+    "date": "2024-11-04",
+    "state": "Niger",
+    "region": "North Central",
+    "AGO": 1179.84,
+    "PMS": 1098.02,
+    "DPK": 1408.85,
+    "LPG": 1397.66
+  },
+  {
+    "date": "2024-11-04",
+    "state": "Ogun",
+    "region": "South West",
+    "AGO": 1169.66,
+    "PMS": 1071.37,
+    "DPK": 1346.74,
+    "LPG": 1309.19
+  },
+  {
+    "date": "2024-11-05",
+    "state": "Kwara",
+    "region": "North Central",
+    "AGO": 1270.45,
+    "PMS": 1277.48,
+    "DPK": 1215.66,
+    "LPG": 1306.44
+  },
+  {
+    "date": "2024-11-05",
+    "state": "Lagos",
+    "region": "South West",
+    "AGO": 1154.03,
+    "PMS": 1065.19,
+    "DPK": 1471.73,
+    "LPG": 1216.02
+  },
+  {
+    "date": "2024-11-05",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "AGO": 1177.98,
+    "PMS": 1131.24,
+    "DPK": 1491.05,
+    "LPG": 1298.28
+  },
+  {
+    "date": "2024-11-05",
+    "state": "Niger",
+    "region": "North Central",
+    "AGO": 1174.37,
+    "PMS": 1101.2,
+    "DPK": 1407.32,
+    "LPG": 1401.64
+  },
+  {
+    "date": "2024-11-05",
+    "state": "Ogun",
+    "region": "South West",
+    "AGO": 1169.67,
+    "PMS": 1052.94,
+    "DPK": 1355.05,
+    "LPG": 1316.87
+  },
+  {
+    "date": "2024-11-06",
+    "state": "Kwara",
+    "region": "North Central",
+    "AGO": 1279.44,
+    "PMS": 1273.37,
+    "DPK": 1233.94,
+    "LPG": 1295.05
+  },
+  {
+    "date": "2024-11-06",
+    "state": "Lagos",
+    "region": "South West",
+    "AGO": 1152.84,
+    "PMS": 1059.63,
+    "DPK": 1468.98,
+    "LPG": 1225.91
+  },
+  {
+    "date": "2024-11-06",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "AGO": 1182.18,
+    "PMS": 1140.12,
+    "DPK": 1500.41,
+    "LPG": 1304.27
+  },
+  {
+    "date": "2024-11-06",
+    "state": "Niger",
+    "region": "North Central",
+    "AGO": 1173.9,
+    "PMS": 1111.15,
+    "DPK": 1404.59,
+    "LPG": 1399.4
+  },
+  {
+    "date": "2024-11-06",
+    "state": "Ogun",
+    "region": "South West",
+    "AGO": 1168.12,
+    "PMS": 1065.89,
+    "DPK": 1346.03,
+    "LPG": 1313.73
+  },
+  {
+    "date": "2024-11-07",
+    "state": "Kwara",
+    "region": "North Central",
+    "AGO": 1267.75,
+    "PMS": 1284.94,
+    "DPK": 1224.28,
+    "LPG": 1307.43
+  },
+  {
+    "date": "2024-11-07",
+    "state": "Lagos",
+    "region": "South West",
+    "AGO": 1145.09,
+    "PMS": 1059.79,
+    "DPK": 1472.81,
+    "LPG": 1207.58
+  },
+  {
+    "date": "2024-11-07",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "AGO": 1188.94,
+    "PMS": 1131.18,
+    "DPK": 1504.78,
+    "LPG": 1303.46
+  },
+  {
+    "date": "2024-11-07",
+    "state": "Niger",
+    "region": "North Central",
+    "AGO": 1164.9,
+    "PMS": 1104.3,
+    "DPK": 1398.52,
+    "LPG": 1406.08
+  },
+  {
+    "date": "2024-11-07",
+    "state": "Ogun",
+    "region": "South West",
+    "AGO": 1154.87,
+    "PMS": 1054.83,
+    "DPK": 1349.73,
+    "LPG": 1306.69
+  },
+  {
+    "date": "2024-11-08",
+    "state": "Kwara",
+    "region": "North Central",
+    "AGO": 1273.23,
+    "PMS": 1274.12,
+    "DPK": 1229.98,
+    "LPG": 1296.57
+  },
+  {
+    "date": "2024-11-08",
+    "state": "Lagos",
+    "region": "South West",
+    "AGO": 1143.26,
+    "PMS": 1063.34,
+    "DPK": 1465.8,
+    "LPG": 1214.21
+  },
+  {
+    "date": "2024-11-08",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "AGO": 1178.39,
+    "PMS": 1137.7,
+    "DPK": 1502.58,
+    "LPG": 1302.47
+  },
+  {
+    "date": "2024-11-08",
+    "state": "Niger",
+    "region": "North Central",
+    "AGO": 1175.9,
+    "PMS": 1114.41,
+    "DPK": 1398.26,
+    "LPG": 1388.25
+  },
+  {
+    "date": "2024-11-08",
+    "state": "Ogun",
+    "region": "South West",
+    "AGO": 1167.17,
+    "PMS": 1053.76,
+    "DPK": 1344.29,
+    "LPG": 1318.32
+  },
+  {
+    "date": "2024-11-09",
+    "state": "Kwara",
+    "region": "North Central",
+    "AGO": 1278.15,
+    "PMS": 1269.83,
+    "DPK": 1219.0,
+    "LPG": 1297.5
+  },
+  {
+    "date": "2024-11-09",
+    "state": "Lagos",
+    "region": "South West",
+    "AGO": 1143.44,
+    "PMS": 1056.62,
+    "DPK": 1479.35,
+    "LPG": 1223.21
+  },
+  {
+    "date": "2024-11-09",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "AGO": 1187.44,
+    "PMS": 1133.97,
+    "DPK": 1500.05,
+    "LPG": 1305.05
+  },
+  {
+    "date": "2024-11-09",
+    "state": "Niger",
+    "region": "North Central",
+    "AGO": 1162.02,
+    "PMS": 1113.7,
+    "DPK": 1396.06,
+    "LPG": 1402.92
+  },
+  {
+    "date": "2024-11-09",
+    "state": "Ogun",
+    "region": "South West",
+    "AGO": 1156.47,
+    "PMS": 1060.68,
+    "DPK": 1348.49,
+    "LPG": 1305.13
+  },
+  {
+    "date": "2024-11-10",
+    "state": "Kwara",
+    "region": "North Central",
+    "AGO": 1269.47,
+    "PMS": 1284.38,
+    "DPK": 1233.6,
+    "LPG": 1298.96
+  },
+  {
+    "date": "2024-11-10",
+    "state": "Lagos",
+    "region": "South West",
+    "AGO": 1156.63,
+    "PMS": 1067.51,
+    "DPK": 1475.35,
+    "LPG": 1223.57
+  },
+  {
+    "date": "2024-11-10",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "AGO": 1187.88,
+    "PMS": 1143.64,
+    "DPK": 1491.6,
+    "LPG": 1295.54
+  },
+  {
+    "date": "2024-11-10",
+    "state": "Niger",
+    "region": "North Central",
+    "AGO": 1172.35,
+    "PMS": 1112.12,
+    "DPK": 1402.67,
+    "LPG": 1392.1
+  },
+  {
+    "date": "2024-11-10",
+    "state": "Ogun",
+    "region": "South West",
+    "AGO": 1162.6,
+    "PMS": 1063.94,
+    "DPK": 1358.23,
+    "LPG": 1311.26
+  },
+  {
+    "date": "2024-11-11",
+    "state": "Kwara",
+    "region": "North Central",
+    "AGO": 1283.03,
+    "PMS": 1280.42,
+    "DPK": 1234.85,
+    "LPG": 1292.82
+  },
+  {
+    "date": "2024-11-11",
+    "state": "Lagos",
+    "region": "South West",
+    "AGO": 1146.72,
+    "PMS": 1063.73,
+    "DPK": 1465.44,
+    "LPG": 1215.22
+  },
+  {
+    "date": "2024-11-11",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "AGO": 1178.3,
+    "PMS": 1133.29,
+    "DPK": 1497.38,
+    "LPG": 1299.42
+  },
+  {
+    "date": "2024-11-11",
+    "state": "Niger",
+    "region": "North Central",
+    "AGO": 1166.78,
+    "PMS": 1096.75,
+    "DPK": 1392.45,
+    "LPG": 1397.56
+  },
+  {
+    "date": "2024-11-11",
+    "state": "Ogun",
+    "region": "South West",
+    "AGO": 1163.74,
+    "PMS": 1061.02,
+    "DPK": 1344.7,
+    "LPG": 1309.09
+  },
+  {
+    "date": "2024-11-12",
+    "state": "Kwara",
+    "region": "North Central",
+    "AGO": 1282.19,
+    "PMS": 1280.59,
+    "DPK": 1222.38,
+    "LPG": 1299.82
+  },
+  {
+    "date": "2024-11-12",
+    "state": "Lagos",
+    "region": "South West",
+    "AGO": 1142.14,
+    "PMS": 1060.8,
+    "DPK": 1471.3,
+    "LPG": 1215.96
+  },
+  {
+    "date": "2024-11-12",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "AGO": 1179.82,
+    "PMS": 1130.79,
+    "DPK": 1502.08,
+    "LPG": 1302.07
+  },
+  {
+    "date": "2024-11-12",
+    "state": "Niger",
+    "region": "North Central",
+    "AGO": 1169.38,
+    "PMS": 1098.63,
+    "DPK": 1397.0,
+    "LPG": 1402.41
+  },
+  {
+    "date": "2024-11-12",
+    "state": "Ogun",
+    "region": "South West",
+    "AGO": 1167.94,
+    "PMS": 1059.76,
+    "DPK": 1340.74,
+    "LPG": 1305.38
+  },
+  {
+    "date": "2024-11-13",
+    "state": "Kwara",
+    "region": "North Central",
+    "AGO": 1278.55,
+    "PMS": 1268.24,
+    "DPK": 1219.69,
+    "LPG": 1306.21
+  },
+  {
+    "date": "2024-11-13",
+    "state": "Lagos",
+    "region": "South West",
+    "AGO": 1143.15,
+    "PMS": 1051.9,
+    "DPK": 1473.4,
+    "LPG": 1218.53
+  },
+  {
+    "date": "2024-11-13",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "AGO": 1189.21,
+    "PMS": 1139.93,
+    "DPK": 1500.58,
+    "LPG": 1301.39
+  },
+  {
+    "date": "2024-11-13",
+    "state": "Niger",
+    "region": "North Central",
+    "AGO": 1180.05,
+    "PMS": 1100.17,
+    "DPK": 1401.78,
+    "LPG": 1393.79
+  },
+  {
+    "date": "2024-11-13",
+    "state": "Ogun",
+    "region": "South West",
+    "AGO": 1153.81,
+    "PMS": 1067.22,
+    "DPK": 1352.74,
+    "LPG": 1309.98
+  },
+  {
+    "date": "2024-11-14",
+    "state": "Kwara",
+    "region": "North Central",
+    "AGO": 1266.78,
+    "PMS": 1285.09,
+    "DPK": 1226.99,
+    "LPG": 1302.63
+  },
+  {
+    "date": "2024-11-14",
+    "state": "Lagos",
+    "region": "South West",
+    "AGO": 1154.96,
+    "PMS": 1057.9,
+    "DPK": 1472.27,
+    "LPG": 1220.2
+  },
+  {
+    "date": "2024-11-14",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "AGO": 1182.88,
+    "PMS": 1126.06,
+    "DPK": 1499.25,
+    "LPG": 1294.62
+  },
+  {
+    "date": "2024-11-14",
+    "state": "Niger",
+    "region": "North Central",
+    "AGO": 1162.88,
+    "PMS": 1110.92,
+    "DPK": 1392.23,
+    "LPG": 1397.12
+  },
+  {
+    "date": "2024-11-14",
+    "state": "Ogun",
+    "region": "South West",
+    "AGO": 1155.4,
+    "PMS": 1061.61,
+    "DPK": 1357.42,
+    "LPG": 1322.88
+  },
+  {
+    "date": "2024-11-15",
+    "state": "Kwara",
+    "region": "North Central",
+    "AGO": 1265.28,
+    "PMS": 1278.51,
+    "DPK": 1222.9,
+    "LPG": 1293.88
+  },
+  {
+    "date": "2024-11-15",
+    "state": "Lagos",
+    "region": "South West",
+    "AGO": 1145.38,
+    "PMS": 1065.23,
+    "DPK": 1475.93,
+    "LPG": 1223.33
+  },
+  {
+    "date": "2024-11-15",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "AGO": 1191.82,
+    "PMS": 1139.11,
+    "DPK": 1501.66,
+    "LPG": 1308.77
+  },
+  {
+    "date": "2024-11-15",
+    "state": "Niger",
+    "region": "North Central",
+    "AGO": 1181.33,
+    "PMS": 1107.56,
+    "DPK": 1397.99,
+    "LPG": 1397.26
+  },
+  {
+    "date": "2024-11-15",
+    "state": "Ogun",
+    "region": "South West",
+    "AGO": 1156.94,
+    "PMS": 1068.32,
+    "DPK": 1344.17,
+    "LPG": 1317.45
+  },
+  {
+    "date": "2024-11-16",
+    "state": "Kwara",
+    "region": "North Central",
+    "AGO": 1268.3,
+    "PMS": 1281.01,
+    "DPK": 1225.48,
+    "LPG": 1308.52
+  },
+  {
+    "date": "2024-11-16",
+    "state": "Lagos",
+    "region": "South West",
+    "AGO": 1141.18,
+    "PMS": 1051.78,
+    "DPK": 1481.09,
+    "LPG": 1222.78
+  },
+  {
+    "date": "2024-11-16",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "AGO": 1175.3,
+    "PMS": 1141.2,
+    "DPK": 1492.41,
+    "LPG": 1305.5
+  },
+  {
+    "date": "2024-11-16",
+    "state": "Niger",
+    "region": "North Central",
+    "AGO": 1164.65,
+    "PMS": 1100.51,
+    "DPK": 1404.89,
+    "LPG": 1389.36
+  },
+  {
+    "date": "2024-11-16",
+    "state": "Ogun",
+    "region": "South West",
+    "AGO": 1150.32,
+    "PMS": 1059.97,
+    "DPK": 1344.59,
+    "LPG": 1321.28
+  },
+  {
+    "date": "2024-11-17",
+    "state": "Kwara",
+    "region": "North Central",
+    "AGO": 1276.23,
+    "PMS": 1271.78,
+    "DPK": 1223.73,
+    "LPG": 1307.5
+  },
+  {
+    "date": "2024-11-17",
+    "state": "Lagos",
+    "region": "South West",
+    "AGO": 1153.14,
+    "PMS": 1063.93,
+    "DPK": 1477.75,
+    "LPG": 1224.3
+  },
+  {
+    "date": "2024-11-17",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "AGO": 1177.35,
+    "PMS": 1135.69,
+    "DPK": 1491.85,
+    "LPG": 1303.27
+  },
+  {
+    "date": "2024-11-17",
+    "state": "Niger",
+    "region": "North Central",
+    "AGO": 1164.94,
+    "PMS": 1102.2,
+    "DPK": 1405.48,
+    "LPG": 1402.76
+  },
+  {
+    "date": "2024-11-17",
+    "state": "Ogun",
+    "region": "South West",
+    "AGO": 1169.4,
+    "PMS": 1068.42,
+    "DPK": 1340.85,
+    "LPG": 1319.06
+  },
+  {
+    "date": "2024-11-18",
+    "state": "Kwara",
+    "region": "North Central",
+    "AGO": 1272.71,
+    "PMS": 1271.75,
+    "DPK": 1233.42,
+    "LPG": 1299.54
+  },
+  {
+    "date": "2024-11-18",
+    "state": "Lagos",
+    "region": "South West",
+    "AGO": 1156.86,
+    "PMS": 1066.29,
+    "DPK": 1483.66,
+    "LPG": 1214.16
+  },
+  {
+    "date": "2024-11-18",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "AGO": 1189.64,
+    "PMS": 1142.85,
+    "DPK": 1500.27,
+    "LPG": 1291.31
+  },
+  {
+    "date": "2024-11-18",
+    "state": "Niger",
+    "region": "North Central",
+    "AGO": 1178.53,
+    "PMS": 1115.05,
+    "DPK": 1401.46,
+    "LPG": 1405.13
+  },
+  {
+    "date": "2024-11-18",
+    "state": "Ogun",
+    "region": "South West",
+    "AGO": 1161.26,
+    "PMS": 1057.76,
+    "DPK": 1353.6,
+    "LPG": 1318.61
+  },
+  {
+    "date": "2024-11-19",
+    "state": "Kwara",
+    "region": "North Central",
+    "AGO": 1274.65,
+    "PMS": 1279.8,
+    "DPK": 1227.79,
+    "LPG": 1306.49
+  },
+  {
+    "date": "2024-11-19",
+    "state": "Lagos",
+    "region": "South West",
+    "AGO": 1148.26,
+    "PMS": 1058.52,
+    "DPK": 1478.58,
+    "LPG": 1207.65
+  },
+  {
+    "date": "2024-11-19",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "AGO": 1187.04,
+    "PMS": 1138.37,
+    "DPK": 1497.11,
+    "LPG": 1298.84
+  },
+  {
+    "date": "2024-11-19",
+    "state": "Niger",
+    "region": "North Central",
+    "AGO": 1179.28,
+    "PMS": 1099.88,
+    "DPK": 1399.25,
+    "LPG": 1399.1
+  },
+  {
+    "date": "2024-11-19",
+    "state": "Ogun",
+    "region": "South West",
+    "AGO": 1168.35,
+    "PMS": 1057.51,
+    "DPK": 1345.94,
+    "LPG": 1321.8
+  },
+  {
+    "date": "2024-11-20",
+    "state": "Kwara",
+    "region": "North Central",
+    "AGO": 1269.02,
+    "PMS": 1274.83,
+    "DPK": 1216.53,
+    "LPG": 1297.12
+  },
+  {
+    "date": "2024-11-20",
+    "state": "Lagos",
+    "region": "South West",
+    "AGO": 1157.07,
+    "PMS": 1057.14,
+    "DPK": 1470.79,
+    "LPG": 1220.18
+  },
+  {
+    "date": "2024-11-20",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "AGO": 1178.32,
+    "PMS": 1142.56,
+    "DPK": 1491.75,
+    "LPG": 1290.83
+  },
+  {
+    "date": "2024-11-20",
+    "state": "Niger",
+    "region": "North Central",
+    "AGO": 1162.97,
+    "PMS": 1105.05,
+    "DPK": 1409.17,
+    "LPG": 1400.02
+  },
+  {
+    "date": "2024-11-20",
+    "state": "Ogun",
+    "region": "South West",
+    "AGO": 1169.26,
+    "PMS": 1063.32,
+    "DPK": 1349.26,
+    "LPG": 1320.43
+  },
+  {
+    "date": "2024-11-21",
+    "state": "Kwara",
+    "region": "North Central",
+    "AGO": 1265.31,
+    "PMS": 1270.71,
+    "DPK": 1222.04,
+    "LPG": 1302.47
+  },
+  {
+    "date": "2024-11-21",
+    "state": "Lagos",
+    "region": "South West",
+    "AGO": 1151.6,
+    "PMS": 1050.72,
+    "DPK": 1484.26,
+    "LPG": 1221.05
+  },
+  {
+    "date": "2024-11-21",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "AGO": 1185.87,
+    "PMS": 1137.15,
+    "DPK": 1505.78,
+    "LPG": 1297.78
+  },
+  {
+    "date": "2024-11-21",
+    "state": "Niger",
+    "region": "North Central",
+    "AGO": 1162.93,
+    "PMS": 1107.18,
+    "DPK": 1403.72,
+    "LPG": 1401.8
+  },
+  {
+    "date": "2024-11-21",
+    "state": "Ogun",
+    "region": "South West",
+    "AGO": 1163.81,
+    "PMS": 1062.64,
+    "DPK": 1356.71,
+    "LPG": 1310.65
+  },
+  {
+    "date": "2024-11-22",
+    "state": "Kwara",
+    "region": "North Central",
+    "AGO": 1273.3,
+    "PMS": 1274.46,
+    "DPK": 1231.24,
+    "LPG": 1309.41
+  },
+  {
+    "date": "2024-11-22",
+    "state": "Lagos",
+    "region": "South West",
+    "AGO": 1157.16,
+    "PMS": 1067.23,
+    "DPK": 1477.44,
+    "LPG": 1220.13
+  },
+  {
+    "date": "2024-11-22",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "AGO": 1180.93,
+    "PMS": 1143.5,
+    "DPK": 1494.43,
+    "LPG": 1306.51
+  },
+  {
+    "date": "2024-11-22",
+    "state": "Niger",
+    "region": "North Central",
+    "AGO": 1181.91,
+    "PMS": 1096.55,
+    "DPK": 1399.58,
+    "LPG": 1402.94
+  },
+  {
+    "date": "2024-11-22",
+    "state": "Ogun",
+    "region": "South West",
+    "AGO": 1164.93,
+    "PMS": 1053.68,
+    "DPK": 1348.2,
+    "LPG": 1311.75
+  },
+  {
+    "date": "2024-11-23",
+    "state": "Kwara",
+    "region": "North Central",
+    "AGO": 1280.54,
+    "PMS": 1267.18,
+    "DPK": 1215.78,
+    "LPG": 1302.27
+  },
+  {
+    "date": "2024-11-23",
+    "state": "Lagos",
+    "region": "South West",
+    "AGO": 1145.31,
+    "PMS": 1061.07,
+    "DPK": 1469.22,
+    "LPG": 1224.27
+  },
+  {
+    "date": "2024-11-23",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "AGO": 1194.76,
+    "PMS": 1132.34,
+    "DPK": 1507.19,
+    "LPG": 1297.29
+  },
+  {
+    "date": "2024-11-23",
+    "state": "Niger",
+    "region": "North Central",
+    "AGO": 1176.67,
+    "PMS": 1115.36,
+    "DPK": 1396.97,
+    "LPG": 1401.07
+  },
+  {
+    "date": "2024-11-23",
+    "state": "Ogun",
+    "region": "South West",
+    "AGO": 1155.62,
+    "PMS": 1067.79,
+    "DPK": 1345.61,
+    "LPG": 1323.72
+  },
+  {
+    "date": "2024-11-24",
+    "state": "Kwara",
+    "region": "North Central",
+    "AGO": 1267.6,
+    "PMS": 1282.27,
+    "DPK": 1227.55,
+    "LPG": 1301.31
+  },
+  {
+    "date": "2024-11-24",
+    "state": "Lagos",
+    "region": "South West",
+    "AGO": 1148.31,
+    "PMS": 1063.52,
+    "DPK": 1466.79,
+    "LPG": 1210.95
+  },
+  {
+    "date": "2024-11-24",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "AGO": 1187.6,
+    "PMS": 1134.76,
+    "DPK": 1502.26,
+    "LPG": 1305.18
+  },
+  {
+    "date": "2024-11-24",
+    "state": "Niger",
+    "region": "North Central",
+    "AGO": 1165.19,
+    "PMS": 1097.12,
+    "DPK": 1397.58,
+    "LPG": 1403.53
+  },
+  {
+    "date": "2024-11-24",
+    "state": "Ogun",
+    "region": "South West",
+    "AGO": 1163.32,
+    "PMS": 1059.77,
+    "DPK": 1343.71,
+    "LPG": 1323.06
+  },
+  {
+    "date": "2024-11-25",
+    "state": "Kwara",
+    "region": "North Central",
+    "AGO": 1267.31,
+    "PMS": 1275.54,
+    "DPK": 1221.01,
+    "LPG": 1297.73
+  },
+  {
+    "date": "2024-11-25",
+    "state": "Lagos",
+    "region": "South West",
+    "AGO": 1140.46,
+    "PMS": 1065.56,
+    "DPK": 1483.65,
+    "LPG": 1211.49
+  },
+  {
+    "date": "2024-11-25",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "AGO": 1175.73,
+    "PMS": 1134.91,
+    "DPK": 1490.51,
+    "LPG": 1307.52
+  },
+  {
+    "date": "2024-11-25",
+    "state": "Niger",
+    "region": "North Central",
+    "AGO": 1181.72,
+    "PMS": 1100.01,
+    "DPK": 1391.85,
+    "LPG": 1392.66
+  },
+  {
+    "date": "2024-11-25",
+    "state": "Ogun",
+    "region": "South West",
+    "AGO": 1163.19,
+    "PMS": 1065.74,
+    "DPK": 1341.64,
+    "LPG": 1313.96
+  },
+  {
+    "date": "2024-11-26",
+    "state": "Kwara",
+    "region": "North Central",
+    "AGO": 1277.72,
+    "PMS": 1267.82,
+    "DPK": 1231.76,
+    "LPG": 1309.05
+  },
+  {
+    "date": "2024-11-26",
+    "state": "Lagos",
+    "region": "South West",
+    "AGO": 1156.02,
+    "PMS": 1065.42,
+    "DPK": 1470.67,
+    "LPG": 1208.15
+  },
+  {
+    "date": "2024-11-26",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "AGO": 1194.04,
+    "PMS": 1134.34,
+    "DPK": 1500.01,
+    "LPG": 1295.72
+  },
+  {
+    "date": "2024-11-26",
+    "state": "Niger",
+    "region": "North Central",
+    "AGO": 1176.97,
+    "PMS": 1105.93,
+    "DPK": 1401.33,
+    "LPG": 1402.62
+  },
+  {
+    "date": "2024-11-26",
+    "state": "Ogun",
+    "region": "South West",
+    "AGO": 1150.21,
+    "PMS": 1052.71,
+    "DPK": 1349.1,
+    "LPG": 1307.22
+  },
+  {
+    "date": "2024-11-27",
+    "state": "Kwara",
+    "region": "North Central",
+    "AGO": 1275.66,
+    "PMS": 1283.04,
+    "DPK": 1227.52,
+    "LPG": 1308.61
+  },
+  {
+    "date": "2024-11-27",
+    "state": "Lagos",
+    "region": "South West",
+    "AGO": 1146.6,
+    "PMS": 1069.13,
+    "DPK": 1474.39,
+    "LPG": 1223.47
+  },
+  {
+    "date": "2024-11-27",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "AGO": 1191.79,
+    "PMS": 1128.73,
+    "DPK": 1505.58,
+    "LPG": 1296.08
+  },
+  {
+    "date": "2024-11-27",
+    "state": "Niger",
+    "region": "North Central",
+    "AGO": 1167.73,
+    "PMS": 1109.5,
+    "DPK": 1390.18,
+    "LPG": 1402.44
+  },
+  {
+    "date": "2024-11-27",
+    "state": "Ogun",
+    "region": "South West",
+    "AGO": 1164.76,
+    "PMS": 1061.3,
+    "DPK": 1359.8,
+    "LPG": 1305.5
+  },
+  {
+    "date": "2024-11-28",
+    "state": "Kwara",
+    "region": "North Central",
+    "AGO": 1269.25,
+    "PMS": 1285.88,
+    "DPK": 1228.93,
+    "LPG": 1303.15
+  },
+  {
+    "date": "2024-11-28",
+    "state": "Lagos",
+    "region": "South West",
+    "AGO": 1155.56,
+    "PMS": 1058.74,
+    "DPK": 1476.69,
+    "LPG": 1225.53
+  },
+  {
+    "date": "2024-11-28",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "AGO": 1179.99,
+    "PMS": 1136.1,
+    "DPK": 1498.61,
+    "LPG": 1303.73
+  },
+  {
+    "date": "2024-11-28",
+    "state": "Niger",
+    "region": "North Central",
+    "AGO": 1175.13,
+    "PMS": 1099.41,
+    "DPK": 1394.51,
+    "LPG": 1394.64
+  },
+  {
+    "date": "2024-11-28",
+    "state": "Ogun",
+    "region": "South West",
+    "AGO": 1157.21,
+    "PMS": 1069.9,
+    "DPK": 1357.23,
+    "LPG": 1317.33
+  },
+  {
+    "date": "2024-11-29",
+    "state": "Kwara",
+    "region": "North Central",
+    "AGO": 1271.76,
+    "PMS": 1285.83,
+    "DPK": 1227.9,
+    "LPG": 1301.95
+  },
+  {
+    "date": "2024-11-29",
+    "state": "Lagos",
+    "region": "South West",
+    "AGO": 1142.52,
+    "PMS": 1059.56,
+    "DPK": 1466.75,
+    "LPG": 1210.03
+  },
+  {
+    "date": "2024-11-29",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "AGO": 1191.57,
+    "PMS": 1137.93,
+    "DPK": 1497.67,
+    "LPG": 1297.1
+  },
+  {
+    "date": "2024-11-29",
+    "state": "Niger",
+    "region": "North Central",
+    "AGO": 1170.63,
+    "PMS": 1112.25,
+    "DPK": 1399.03,
+    "LPG": 1398.27
+  },
+  {
+    "date": "2024-11-29",
+    "state": "Ogun",
+    "region": "South West",
+    "AGO": 1158.41,
+    "PMS": 1057.71,
+    "DPK": 1356.4,
+    "LPG": 1314.15
+  },
+  {
+    "date": "2024-11-30",
+    "state": "Kwara",
+    "region": "North Central",
+    "AGO": 1283.34,
+    "PMS": 1274.3,
+    "DPK": 1232.0,
+    "LPG": 1293.21
+  },
+  {
+    "date": "2024-11-30",
+    "state": "Lagos",
+    "region": "South West",
+    "AGO": 1146.14,
+    "PMS": 1052.43,
+    "DPK": 1470.42,
+    "LPG": 1222.8
+  },
+  {
+    "date": "2024-11-30",
+    "state": "Nasarawa",
+    "region": "North Central",
+    "AGO": 1175.32,
+    "PMS": 1133.82,
+    "DPK": 1490.67,
+    "LPG": 1302.5
+  },
+  {
+    "date": "2024-11-30",
+    "state": "Niger",
+    "region": "North Central",
+    "AGO": 1172.39,
+    "PMS": 1104.98,
+    "DPK": 1392.45,
+    "LPG": 1393.69
+  },
+  {
+    "date": "2024-11-30",
+    "state": "Ogun",
+    "region": "South West",
+    "AGO": 1155.06,
+    "PMS": 1064.53,
+    "DPK": 1348.67,
+    "LPG": 1305.43
+  }
+]
